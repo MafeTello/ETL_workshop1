@@ -1,5 +1,5 @@
 
-# ETL ~ Workshop-1 ~ Python Data Engineer Workshop <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" alt="Nombre de la Imagen" width="30px"/>
+# ETL Workshop-1 -  Python Data Engineer Workshop <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" alt="Nombre de la Imagen" width="30px"/>
 
 María Fernanda Tello Vergara
 https://github.com/MafeTello/ETL_workshop1.git
@@ -35,12 +35,13 @@ This dataset have 50k rows of data about candidates.
 - **README.md:** Documento que proporciona una introducción y guía del proyecto, explicando cómo configurarlo y usarlo.
 
 
-## POWER BI   
+### POWER BI   
 1.  Open a new dashboard
 2. Look for 'Database PostgreSQL'
 3. Insert your information and accept 
 4. Select the tables and load the data
 5. Make your dashboard
+
 
 
 
