@@ -48,11 +48,11 @@ We are given a csv file called Candidates, in which we find a total of 50000 rec
 
 
 ### Dashboard Power BI   
-1.  Open a new dashboard
-2. Look for 'Database PostgreSQL'
-3. Insert your information and accept 
-4. Select the tables and load the data
-5. Make your dashboard
+1.  Open a new dashboard.
+2. Look for 'Database PostgreSQL'.
+3. Insert your information and accept.
+4. Select the tables and load the data.
+5. Make your dashboard.
 
 
 
