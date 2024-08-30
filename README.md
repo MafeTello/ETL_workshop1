@@ -1,7 +1,7 @@
 
 # ETL Workshop-1 -  Python Data Engineer Workshop <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" alt="Nombre de la Imagen" width="30px"/>
 
-María Fernanda Tello Vergara
+María Fernanda Tello Vergara 
 https://github.com/MafeTello/ETL_workshop1.git
 
 Project Description 
@@ -20,16 +20,16 @@ The objective of the workshop is to apply ETL concepts to extract data from a CS
 We are given a csv file called Candidates, in which we find a total of 50000 records which include the following information:
 
 
-- First Name: Name of candidate
-- Last Name: Last name
-- Email: Candidate’s email
-- Application Date: Application date
-- Country: Country of candidate
-- YOE: Candidate’s years of experience
-- Seniority: Seniority level of the candidate
-- Technology: Technology related to the position for which the candidate applied
-- Code Challenge Score: Code challenge score
-- Technical Interview Score: Technical interview score
+- **First Name:** Name of candidate
+- **Last Name:** Last name
+- **Email:** Candidate’s email
+- **Application Date:** Application date
+- **Country:** Country of candidate
+- **YOE:** Candidate’s years of experience
+- **Seniority:** Seniority level of the candidate
+- **Technology:** Technology related to the position for which the candidate applied
+- **Code Challenge Score:** Code challenge score
+- **Technical Interview Score:** Technical interview score
 
 
 ### Repository Organizacion
@@ -44,10 +44,10 @@ We are given a csv file called Candidates, in which we find a total of 50000 rec
 - **.gitignore:** Defines which files and folders should be ignored by Git, such as temporary or sensitive files.
 - **README.md:** Document that provides an introduction and guide to the project, explaining how to set it up and use it.
 
-### Important components
 
 
-### POWER BI   
+
+### Dashboard Power BI   
 1.  Open a new dashboard
 2. Look for 'Database PostgreSQL'
 3. Insert your information and accept 
